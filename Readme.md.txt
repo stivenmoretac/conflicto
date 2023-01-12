@@ -14,4 +14,4 @@ comit 2
 41455
 asdasdas
 agrego esto
-quitando pull request local
+qutando pull rebase
